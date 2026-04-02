@@ -6,23 +6,23 @@
 
 This repository contains an academic paper examining how AI systems construct meaning from language, and how differences between user intent and system interpretation can lead to misunderstanding.
 
-The paper explores four cases that illustrate how:
+The paper introduces the concept of the **interpretation gap**—the difference between what a user believes has been communicated and what an AI system is able to infer from the language provided.
 
-* ambiguous language affects system behavior
-* narrative framing influences interpretation
+Through four cases, the paper explores how:
+
+* ambiguous instructions affect system behavior
+* narrative framing shapes interpretation
 * small wording changes alter constraint application
 * conversational context reinforces assumptions over time
 
-Together, these cases demonstrate what is described as the **interpretation gap**: the difference between what a user believes has been communicated and what a system is able to infer.
-
 ## Contents
 
-* `/paper/` — Full paper document
+* `/paper/interpretation-gap.pdf` — Full paper (Version 1.0)
 
 ## Purpose
 
-This work is intended as an educational exploration of AI interaction, not a critique of specific systems. It focuses on improving clarity in how users understand and engage with AI systems.
+This work is intended as an educational exploration of AI interaction. It does not assign intent or fault to AI systems, but instead examines how misunderstanding emerges through language, context, and interaction structure.
 
 ## Status
 
-Initial publication (Version 1.0)
+Version 1.0 — Initial publication
